@@ -1,8 +1,8 @@
-# Hi, I'm Aleksandr
+# Hi, I'm Aleksander
 
 ![AI Security](https://img.shields.io/badge/AI_Security-1a1a1a?style=flat) ![MLSecOps](https://img.shields.io/badge/MLSecOps-1a1a1a?style=flat) ![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-1a1a1a?style=flat)
 
-Security engineer working on AI / LLM systems. My focus is the architectural layer: MCP, agentic platforms, threat models, and the tooling around them.
+Product security engineer working on AI / LLM systems. My focus is the architectural layer: MCP, agentic platforms, threat models, and the tooling around them.
 
 ## Current focus
 
