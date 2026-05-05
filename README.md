@@ -23,7 +23,7 @@ Product security engineer working on AI / LLM systems. My focus is the architect
 
 Currently AI / MLSecOps in a large bank. Before that I launched and ran the InfoSec practice at a B2B services company (express audit, OWASP, incident response). Earlier I did infrastructure security work: NGFW, SIEM, EDR, audit automation in Python / Bash / PowerShell. Bachelor in Information Security (SUAI), pentest training, English C1/C2.
 
-Guest expert at ITMO Talent Hub and reviewer on the ITMO master's thesis defense commission. Talks at ProductStar (РБК). Article on TProger.
+Guest expert at ITMO Talent Hub and reviewer on the ITMO master's thesis defense commission. Talks at ProductStar Online School.
 
 ## Contact
 
