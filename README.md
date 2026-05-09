@@ -14,14 +14,14 @@ Product security engineer working on AI / LLM systems. My focus is the architect
 ## Selected work
 
 - **[Predixor](https://github.com/roselis-lab/predixor)** — open source. Generates security requirements from a machine-readable description of an AI architecture.
-- **MCP gateway & MCP platform security** — architecture and requirements for safe MCP deployment in an enterprise, done with a platform working group. Defended at architectural review.
-- **LLM / Agent / MCP threat models** — co-authored, with mitigations mapped to specific components and owning teams. The MCP slice was built from primary research.
+- **MCP gateway & MCP platform security** — architecture and requirements for safe MCP deployment in an enterprise, done with a platform working group.
+- **LLM / Agent / MCP threat models** — co-authored, with mitigations mapped to specific components and owning teams.
 - **Promptfoo integration for LLM security testing** — designed and shipped automated security testing for internal LLM apps; integrated with platform and DevSecOps pipelines.
 - **Vibecoding & Shadow AI** — policy and controls for AI-assisted development. Co-authored a mandatory AI-security course for engineering.
 
 ## Background
 
-Currently AI / MLSecOps in a large bank. Before that I launched and ran the InfoSec practice at a B2B services company (express audit, OWASP, incident response). Earlier I did infrastructure security work: NGFW, SIEM, EDR, audit automation in Python / Bash / PowerShell. Bachelor in Information Security (SUAI), pentest training, English C1/C2.
+Currently working on GenAI/LLM security in one of Eastern Europe’s largest financial ecosystems. Before that I launched and ran the InfoSec practice at a B2B services company (express audit, OWASP, incident response). Earlier I did infrastructure security work: NGFW, SIEM, EDR, audit automation in Python / Bash / PowerShell. Bachelor in Information Security (SUAI), pentest training, English C1/C2.
 
 Guest expert at ITMO Talent Hub and reviewer on the ITMO master's thesis defense commission. Talks at ProductStar Online School.
 
